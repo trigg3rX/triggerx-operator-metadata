@@ -1,3 +1,3 @@
-These are Metadata and Config Files to register operators to EigenLayer and TriggerX.
+Assets for TriggerX Keepers (operator nodes).
 
-Please do not use APIs provided here.
+Images are fetched from [Disney Princess](https://princess.disney.com/) Official website.
